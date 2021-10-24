@@ -1,0 +1,10 @@
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\bin\Debug\MeslekDagilimlari.exe.config
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\bin\Debug\MeslekDagilimlari.exe
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\bin\Debug\MeslekDagilimlari.pdb
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.Form1.resources
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.Properties.Resources.resources
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.exe
+D:\Belgeler\Projeler\Ntp_Dersleri\MeslekDagilimlari\MeslekDagilimlari\obj\Debug\MeslekDagilimlari.pdb
